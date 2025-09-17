@@ -1,0 +1,1 @@
+# JWST-MIRI_stitching_code
